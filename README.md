@@ -12,7 +12,7 @@ All task submissions for the Data Analytics Developer Intern program. Each task 
 | 01 | Excel Data Analysis & Reporting | ✅ Complete | [View](./Task-01-Excel-Data-Analysis-Reporting) |
 | 02 | Advanced Excel & Power Query Analytics | ✅ Complete | [View](./Task-02-Excel-PowerQuery) |
 | 03 | SQL Data Analysis | ✅ Complete | [View](./Task-03-SQL-Data-Analysis) |
-| 04 | Advanced SQL Analytics | ⏳ Pending | — |
+| 04 | Advanced SQL Analytics | ✅ Complete | [View](./Task-04-Advanced-SQL) |
 | 05 | Python for Data Analytics | ⏳ Pending | — |
 | 06 | Data Cleaning, Transformation & ETL | ⏳ Pending | — |
 | 07 | Exploratory Data Analysis (EDA) | ⏳ Pending | — |
