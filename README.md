@@ -17,7 +17,7 @@ All task submissions for the Data Analytics Developer Intern program. Each task 
 | 06 | Data Cleaning, Transformation & ETL | ✅ Complete | [View](./Task-06-Data-Cleaning-ETL) |
 | 07 | Exploratory Data Analysis (EDA) | ✅ Complete | [View](./Task-07-EDA) |
 | 08 | Statistical Analysis for Business Decisions | ✅ Complete | [View](./Task-08-Statistical-Analysis) |
-| 09 | Data Visualization & Storytelling | ⏳ Pending | — |
+| 09 | Data Visualization & Storytelling | ✅ Complete | [View](./Task-09-Data-Visualization) |
 | 10 | Power BI Data Modeling, Power Query & DAX | ⏳ Pending | — |
 | 11 | Advanced Interactive Power BI Dashboard | ⏳ Pending | — |
 | 12 | Business KPI, Trend & Time-Based Analysis | ⏳ Pending | — |
