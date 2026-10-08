@@ -20,7 +20,7 @@ All task submissions for the Data Analytics Developer Intern program. Each task 
 | 09 | Data Visualization & Storytelling | ✅ Complete | [View](./Task-09-Data-Visualization) |
 | 10 | Power BI Data Modeling, Power Query & DAX | ✅ Complete | [View](./Task-10-PowerBI-Modeling) |
 | 11 | Advanced Interactive Power BI Dashboard | ✅ Complete | [View](./Task-11-PowerBI-Dashboard) |
-| 12 | Business KPI, Trend & Time-Based Analysis | ⏳ Pending | — |
+| 12 | Business KPI, Trend & Time-Based Analysis | ✅ Complete | [View](./Task-12-KPI-Trend-Analysis) |
 | 13 | Data Quality & Analytics Validation | ⏳ Pending | — |
 | 14 | Final Industry-Style Data Analytics Project | ⏳ Pending | — |
 | 15 | Final Technical Evaluation & Project Presentation | ⏳ Pending | — |
