@@ -22,5 +22,5 @@ All task submissions for the Data Analytics Developer Intern program. Each task 
 | 11 | Advanced Interactive Power BI Dashboard | ✅ Complete | [View](./Task-11-PowerBI-Dashboard) |
 | 12 | Business KPI, Trend & Time-Based Analysis | ✅ Complete | [View](./Task-12-KPI-Trend-Analysis) |
 | 13 | Data Quality & Analytics Validation | ✅ Complete | [View](./Task-13-Data-Quality-Validation) |
-| 14 | Final Industry-Style Data Analytics Project | ⏳ Pending | — |
+| 14 | Final Industry-Style Data Analytics Project | ✅ Complete | [View](./Task-14-Final-Project) |
 | 15 | Final Technical Evaluation & Project Presentation | ⏳ Pending | — |
